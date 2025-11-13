@@ -1,0 +1,56 @@
+/* frontend/src/App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+}
+
+.App-header h1 {
+  font-size: 3rem;
+  color: #667eea;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.ethics-notice {
+  background: #fff3cd;
+  border: 2px solid #ffc107;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: #856404;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.App-main {
+  min-height: 400px;
+}
+
+.App-footer {
+  margin-top: 50px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  color: #666;
+}
+
+.App-footer a {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.App-footer a:hover {
+  text-decoration: underline;
+}
